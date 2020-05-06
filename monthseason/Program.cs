@@ -26,8 +26,8 @@ namespace monthseason
                     input = int.Parse(mon[i]);
                 }
             }
-            
-                switch (input)
+
+            switch (input)
             {
                 case 12:
                 case 1:
